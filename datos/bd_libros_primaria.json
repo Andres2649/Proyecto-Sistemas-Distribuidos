@@ -1,0 +1,19 @@
+{
+    "LIB001": {
+        "titulo": "Redes Distribuidas",
+        "ejemplares_disponibles": 1,
+        "prestamos": [
+            {
+                "usuario": "maria",
+                "fecha_inicio": "2025-11-19 06:00:48.257551",
+                "fecha_fin": "2025-12-03 06:00:48.257551",
+                "renovaciones": 0
+            }
+        ]
+    },
+    "LIB002": {
+        "titulo": "Sistemas Operativos",
+        "ejemplares_disponibles": 1,
+        "prestamos": []
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "LIB001": {
+    "titulo": "Redes Distribuidas",
+    "ejemplares_disponibles": 2,
+    "prestamos": []
+  },
+  "LIB002": {
+    "titulo": "Sistemas Operativos",
+    "ejemplares_disponibles": 1,
+    "prestamos": []
+  }
+}
